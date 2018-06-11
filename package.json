@@ -1,0 +1,22 @@
+{
+  "name": "imweb-tpl-loader",
+  "version": "1.0.1",
+  "description": "imweb-tpl-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imweb/imweb-tpl-loader.git"
+  },
+  "keywords": [
+    "imweb-tpl-loader"
+  ],
+  "author": "moxhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imweb/imweb-tpl-loader/issues"
+  },
+  "homepage": "https://github.com/imweb/imweb-tpl-loader#readme"
+}
